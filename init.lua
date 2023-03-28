@@ -71,6 +71,8 @@ require('lazy').setup({
   'christoomey/vim-tmux-navigator',
   'kdheepak/lazygit.nvim',
   'szw/vim-maximizer',
+  'nvim-tree/nvim-tree.lua',
+  'nvim-tree/nvim-web-devicons',
 
   -- Detect tabstop and shiftwidth automatically
   'tpope/vim-sleuth',
