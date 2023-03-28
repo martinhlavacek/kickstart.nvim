@@ -70,6 +70,7 @@ require('lazy').setup({
   'tpope/vim-rhubarb',
   'christoomey/vim-tmux-navigator',
   'kdheepak/lazygit.nvim',
+  'szw/vim-maximizer',
 
   -- Detect tabstop and shiftwidth automatically
   'tpope/vim-sleuth',
